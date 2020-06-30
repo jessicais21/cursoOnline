@@ -8,7 +8,7 @@ print ('Escolha a operação do banco de dados')
 print ('1 - inserir')
 print ('2 - ler')
 print ('3 - atualizar')
-print ('4 - deletar')
+print ('4 - deletar aqui')
 
 operacao = int(input('A operação é: '))
 
